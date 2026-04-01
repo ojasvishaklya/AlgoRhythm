@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlgoRhythm — DSA Problem Set</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">AlgoRhythm</h1>
+                <div class="search-wrapper">
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                    <input
+                        type="text"
+                        id="searchInput"
+                        class="search-input"
+                        placeholder="Search problems..."
+                        aria-label="Search problems"
+                    >
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <section class="filter-section">
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="topicFilter" class="filter-label">Topic</label>
+                        <select id="topicFilter" class="filter-select" aria-label="Filter by topic">
+                            <option value="">All Topics</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="difficultyFilter" class="filter-label">Difficulty</label>
+                        <select id="difficultyFilter" class="filter-select" aria-label="Filter by difficulty">
+                            <option value="">All Difficulties</option>
+                            <option value="Easy">Easy</option>
+                            <option value="Medium">Medium</option>
+                            <option value="Hard">Hard</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="patternFilter" class="filter-label">Pattern</label>
+                        <select id="patternFilter" class="filter-select" aria-label="Filter by pattern">
+                            <option value="">All Patterns</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="sortSelect" class="filter-label">Sort By</label>
+                        <select id="sortSelect" class="filter-select" aria-label="Sort problems">
+                            <option value="title-asc">Title (A-Z)</option>
+                            <option value="title-desc">Title (Z-A)</option>
+                            <option value="difficulty-asc">Difficulty (Easy First)</option>
+                            <option value="difficulty-desc">Difficulty (Hard First)</option>
+                            <option value="topic-asc">Topic (A-Z)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="active-filters" id="activeFilters" aria-live="polite"></div>
+            </section>
+
+            <section class="stats-section">
+                <p class="stats-text" id="statsText" aria-live="polite">Loading problems...</p>
+                <div class="view-toggle" role="group" aria-label="View mode">
+                    <button
+                        id="gridViewBtn"
+                        class="view-toggle-btn active"
+                        aria-label="Grid view"
+                        title="Grid view"
+                    >
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="3" y="3" width="7" height="7"></rect>
+                            <rect x="14" y="3" width="7" height="7"></rect>
+                            <rect x="14" y="14" width="7" height="7"></rect>
+                            <rect x="3" y="14" width="7" height="7"></rect>
+                        </svg>
+                    </button>
+                    <button
+                        id="listViewBtn"
+                        class="view-toggle-btn"
+                        aria-label="List view"
+                        title="List view"
+                    >
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="8" y1="6" x2="21" y2="6"></line>
+                            <line x1="8" y1="12" x2="21" y2="12"></line>
+                            <line x1="8" y1="18" x2="21" y2="18"></line>
+                            <line x1="3" y1="6" x2="3.01" y2="6"></line>
+                            <line x1="3" y1="12" x2="3.01" y2="12"></line>
+                            <line x1="3" y1="18" x2="3.01" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+            </section>
+
+            <section class="problem-grid" id="problemGrid" role="list">
+                <div class="loading-state">
+                    <div class="loading-spinner"></div>
+                    <p>Loading problems...</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
