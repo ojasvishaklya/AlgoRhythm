@@ -1,0 +1,724 @@
+{
+  "topic": "String",
+  "totalProblems": 11,
+  "difficultyBreakdown": {
+    "Easy": 3,
+    "Medium": 2,
+    "Hard": 2
+  },
+  "patternBreakdown": {
+    "Hash Maps": 4,
+    "Sliding Window": 6,
+    "Topological Sort": 1
+  },
+  "problems": [
+    {
+      "id": "leetcode-longest-palindrome",
+      "title": "Longest Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/longest-palindrome/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Hash Maps",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-rotate-string",
+      "title": "Rotate String",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://www.google.com/search?q=Rotate+String+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "String",
+      "pattern": "Sliding Window",
+      "notes": "String Matching",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-valid-anagram",
+      "title": "Valid Anagram",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-anagram/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Hash Maps",
+      "notes": "hashmap to count each char in str1, decrement for str2",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-encode-and-decode-strings",
+      "title": "Encode and Decode Strings",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/accounts/login/?next=/problems/encode-and-decode-strings/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Sliding Window",
+      "notes": "Leetcode Premium",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "blind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-group-anagrams",
+      "title": "Group Anagrams",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/group-anagrams/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Hash Maps",
+      "notes": "for each of 26 chars, use count of each char in each word as tuple for key in dict, value is the list of anagrams",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "kmp-algorithm-for-pattern-searching",
+      "title": "KMP Algorithm for Pattern Searching",
+      "platform": null,
+      "difficulty": "Hard",
+      "url": "https://www.google.com/search?q=KMP+Algorithm+for+Pattern+Searching+leetcode",
+      "urlGenerated": true,
+      "primaryTopic": "String",
+      "pattern": "Sliding Window",
+      "notes": "KMP Algorithm",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-shortest-palindrome",
+      "title": "Shortest Palindrome",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "url": "https://www.google.com/search?q=Shortest+Palindrome+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "String",
+      "pattern": "Sliding Window",
+      "notes": "Rolling hash, String Matching, Rabin Karp",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "geeksforgeeks-check-if-string-is-palindrome",
+      "title": "Check if String is Palindrome",
+      "platform": "GeeksforGeeks",
+      "difficulty": null,
+      "url": "https://www.geeksforgeeks.org/problems/palindrome-string0817/1",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Sliding Window",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-encode-and-decode-strings-leetcode-premium",
+      "title": "Encode and Decode Strings (Leetcode Premium)",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/encode-and-decode-strings/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Sliding Window",
+      "notes": "store length of str before each string and delimiter like '#'",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "grind-75"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-validate-ip-address",
+      "title": "Validate IP Address",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/validate-ip-address/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Hash Maps",
+      "notes": "Day 14",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 14,
+        "importance": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-verifying-an-alien-dictionary",
+      "title": "Verifying an Alien Dictionary",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+      "urlGenerated": false,
+      "primaryTopic": "String",
+      "pattern": "Topological Sort",
+      "notes": "Day 28",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 28,
+        "importance": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    }
+  ]
+}

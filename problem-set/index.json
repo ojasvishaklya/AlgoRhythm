@@ -1,0 +1,496 @@
+{
+  "totalProblems": 345,
+  "totalTopics": 22,
+  "generatedDate": "2026-03-29",
+  "topics": [
+    {
+      "id": 1,
+      "name": "Array",
+      "slug": "array",
+      "file": "01-array.json",
+      "problemCount": 10,
+      "difficulty": {
+        "Easy": 2,
+        "Medium": 2,
+        "Hard": 1
+      },
+      "topPatterns": [
+        {
+          "pattern": "Hash Maps",
+          "count": 5
+        },
+        {
+          "pattern": "Prefix Sum",
+          "count": 4
+        },
+        {
+          "pattern": "Subsets",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "String",
+      "slug": "string",
+      "file": "02-string.json",
+      "problemCount": 11,
+      "difficulty": {
+        "Easy": 3,
+        "Medium": 2,
+        "Hard": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Sliding Window",
+          "count": 6
+        },
+        {
+          "pattern": "Hash Maps",
+          "count": 4
+        },
+        {
+          "pattern": "Topological Sort",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hash Map & Set",
+      "slug": "hash-map-set",
+      "file": "03-hash-map-set.json",
+      "problemCount": 11,
+      "difficulty": {
+        "Easy": 6,
+        "Medium": 3
+      },
+      "topPatterns": [
+        {
+          "pattern": "Hash Maps",
+          "count": 7
+        },
+        {
+          "pattern": "Prefix Sum",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Two Pointers",
+      "slug": "two-pointers",
+      "file": "04-two-pointers.json",
+      "problemCount": 31,
+      "difficulty": {
+        "Easy": 9,
+        "Medium": 15,
+        "Hard": 3
+      },
+      "topPatterns": [
+        {
+          "pattern": "Two Pointers",
+          "count": 19
+        },
+        {
+          "pattern": "Fast and Slow Pointers",
+          "count": 10
+        },
+        {
+          "pattern": "Hash Maps",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sliding Window",
+      "slug": "sliding-window",
+      "file": "05-sliding-window.json",
+      "problemCount": 16,
+      "difficulty": {
+        "Easy": 3,
+        "Medium": 7,
+        "Hard": 5
+      },
+      "topPatterns": [
+        {
+          "pattern": "Sliding Window",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Linked List",
+      "slug": "linked-list",
+      "file": "06-linked-list.json",
+      "problemCount": 13,
+      "difficulty": {
+        "Easy": 2,
+        "Medium": 5,
+        "Hard": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Two Pointers",
+          "count": 7
+        },
+        {
+          "pattern": "In-Place Linked List Reversal",
+          "count": 5
+        },
+        {
+          "pattern": "Monotonic Stack/Queue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Stack & Queue",
+      "slug": "stack-queue",
+      "file": "07-stack-queue.json",
+      "problemCount": 10,
+      "difficulty": {
+        "Easy": 2,
+        "Medium": 4,
+        "Hard": 1
+      },
+      "topPatterns": [
+        {
+          "pattern": "Monotonic Stack/Queue",
+          "count": 9
+        },
+        {
+          "pattern": "Prefix Sum",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Binary Search",
+      "slug": "binary-search",
+      "file": "08-binary-search.json",
+      "problemCount": 27,
+      "difficulty": {
+        "Medium": 2,
+        "Hard": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Binary Search",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Sorting",
+      "slug": "sorting",
+      "file": "09-sorting.json",
+      "problemCount": 8,
+      "difficulty": {
+        "Easy": 2,
+        "Medium": 4,
+        "Hard": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Divide and Conquer",
+          "count": 3
+        },
+        {
+          "pattern": "Two Pointers",
+          "count": 2
+        },
+        {
+          "pattern": "Top K Elements",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation",
+      "file": "10-bit-manipulation.json",
+      "problemCount": 7,
+      "difficulty": {
+        "Easy": 5,
+        "Medium": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Bit Manipulation",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Math & Number Theory",
+      "slug": "math-number-theory",
+      "file": "11-math-number-theory.json",
+      "problemCount": 13,
+      "difficulty": {
+        "Easy": 3,
+        "Medium": 6,
+        "Hard": 1
+      },
+      "topPatterns": [
+        {
+          "pattern": "Bit Manipulation",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Tree & BST",
+      "slug": "tree-bst",
+      "file": "12-tree-bst.json",
+      "problemCount": 46,
+      "difficulty": {
+        "Easy": 5,
+        "Medium": 5,
+        "Hard": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Depth-First Search (DFS)",
+          "count": 42
+        },
+        {
+          "pattern": "Breadth-First Search (BFS)",
+          "count": 2
+        },
+        {
+          "pattern": "Sliding Window",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Trie",
+      "slug": "trie",
+      "file": "13-trie.json",
+      "problemCount": 6,
+      "difficulty": {
+        "Medium": 3,
+        "Hard": 1
+      },
+      "topPatterns": [
+        {
+          "pattern": "Trie",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Graph",
+      "slug": "graph",
+      "file": "14-graph.json",
+      "problemCount": 23,
+      "difficulty": {
+        "Medium": 5,
+        "Hard": 2
+      },
+      "topPatterns": [
+        {
+          "pattern": "Union-Find",
+          "count": 7
+        },
+        {
+          "pattern": "Graph Traversal",
+          "count": 7
+        },
+        {
+          "pattern": "Topological Sort",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Heap / Priority Queue",
+      "slug": "heap-priority-queue",
+      "file": "15-heap-priority-queue.json",
+      "problemCount": 17,
+      "difficulty": {
+        "Easy": 1,
+        "Medium": 4,
+        "Hard": 3
+      },
+      "topPatterns": [
+        {
+          "pattern": "Heap / Priority Queue",
+          "count": 15
+        },
+        {
+          "pattern": "Two Heaps",
+          "count": 1
+        },
+        {
+          "pattern": "K-way Merge",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming",
+      "file": "16-dynamic-programming.json",
+      "problemCount": 37,
+      "difficulty": {
+        "Easy": 2,
+        "Medium": 18,
+        "Hard": 6
+      },
+      "topPatterns": [
+        {
+          "pattern": "Dynamic Programming (DP)",
+          "count": 30
+        },
+        {
+          "pattern": "Kadane's Algorithm",
+          "count": 5
+        },
+        {
+          "pattern": "Bit Manipulation",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Greedy",
+      "slug": "greedy",
+      "file": "17-greedy.json",
+      "problemCount": 13,
+      "difficulty": {
+        "Medium": 8,
+        "Hard": 4
+      },
+      "topPatterns": [
+        {
+          "pattern": "Greedy",
+          "count": 12
+        },
+        {
+          "pattern": "Monotonic Stack/Queue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Backtracking & Recursion",
+      "slug": "backtracking-recursion",
+      "file": "18-backtracking-recursion.json",
+      "problemCount": 22,
+      "difficulty": {
+        "Easy": 4,
+        "Medium": 6
+      },
+      "topPatterns": [
+        {
+          "pattern": "Backtracking",
+          "count": 19
+        },
+        {
+          "pattern": "Bit Manipulation",
+          "count": 1
+        },
+        {
+          "pattern": "Monotonic Stack/Queue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Intervals",
+      "slug": "intervals",
+      "file": "19-intervals.json",
+      "problemCount": 11,
+      "difficulty": {
+        "Easy": 1,
+        "Medium": 5,
+        "Hard": 3
+      },
+      "topPatterns": [
+        {
+          "pattern": "Merge Intervals",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Matrix",
+      "slug": "matrix",
+      "file": "20-matrix.json",
+      "problemCount": 9,
+      "difficulty": {
+        "Medium": 5
+      },
+      "topPatterns": [
+        {
+          "pattern": "Matrix Traversal",
+          "count": 4
+        },
+        {
+          "pattern": "Depth-First Search (DFS)",
+          "count": 2
+        },
+        {
+          "pattern": "Breadth-First Search (BFS)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Design",
+      "slug": "design",
+      "file": "21-design.json",
+      "problemCount": 4,
+      "difficulty": {
+        "Medium": 1
+      },
+      "topPatterns": [
+        {
+          "pattern": "Hash Maps",
+          "count": 3
+        },
+        {
+          "pattern": "Monotonic Stack/Queue",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Advanced Algorithms",
+      "slug": "advanced-algorithms",
+      "file": "22-advanced-algorithms.json",
+      "problemCount": 0,
+      "difficulty": {},
+      "topPatterns": []
+    }
+  ],
+  "statistics": {
+    "totalEasy": 50,
+    "totalMedium": 112,
+    "totalHard": 40,
+    "mostPopularPattern": "Depth-First Search (DFS)",
+    "mostCommonCompany": "Amazon",
+    "problemsWithURLs": 345,
+    "problemsWithGeneratedURLs": 49
+  }
+}

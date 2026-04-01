@@ -1,0 +1,677 @@
+{
+  "topic": "Array",
+  "totalProblems": 10,
+  "difficultyBreakdown": {
+    "Easy": 2,
+    "Medium": 2,
+    "Hard": 1
+  },
+  "patternBreakdown": {
+    "Prefix Sum": 4,
+    "Hash Maps": 5,
+    "Subsets": 1
+  },
+  "problems": [
+    {
+      "id": "leetcode-find-pivot-index",
+      "title": "Find Pivot Index",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/find-pivot-index/description/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Prefix Sum",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-partition-array-into-three-parts-with-equal-sum",
+      "title": "Partition Array Into Three Parts With Equal Sum",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://www.google.com/search?q=Partition+Array+Into+Three+Parts+With+Equal+Sum+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Array",
+      "pattern": "Prefix Sum",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-majority-element-ii",
+      "title": "Majority Element II",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/majority-element-ii/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Hash Maps",
+      "notes": "Boyer-Moore Majority Vote algorithm\n\nDay 6",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "amazon-sde-riddhi-dutta"
+        ],
+        "day": 6
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-product-of-array-except-self",
+      "title": "Product of Array Except Self",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Prefix Sum",
+      "notes": "Prefix Products, Suffix Products\n\nmake two passes, first in-order, second in-reverse, to compute products\n\nDay 1",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "amazon-sde-riddhi-dutta",
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ],
+        "day": 1
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-count-range-sum",
+      "title": "Count Range Sum",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/count-of-range-sum/description/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Prefix Sum",
+      "notes": "Problem Challenge",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "geeksforgeeks-find-duplicates-in-on-time-and-constant-extra-space",
+      "title": "Find Duplicates in O(n) Time and Constant Extra Space",
+      "platform": "GeeksforGeeks",
+      "difficulty": null,
+      "url": "https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Hash Maps",
+      "notes": "Day 1",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 1,
+        "importance": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-majority-element",
+      "title": "Majority Element",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/majority-element/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Hash Maps",
+      "notes": "Day 6",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 6,
+        "importance": "VVI",
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-next-permutation",
+      "title": "Next Permutation",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/next-permutation/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Subsets",
+      "notes": "Day 24",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 24,
+        "importance": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-third-maximum-number",
+      "title": "Third Maximum Number",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/third-maximum-number/",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Hash Maps",
+      "notes": "Day 1",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 1,
+        "importance": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "youtube-video-tutorial-topic-not-specified",
+      "title": "Video Tutorial - Topic Not Specified",
+      "platform": "YouTube",
+      "difficulty": null,
+      "url": "https://www.youtube.com/watch?v=ytLvO2N968Y&list=PL4WwUkr0wZURF9cR2UreFQDmIDON2zwQR&index=5",
+      "urlGenerated": false,
+      "primaryTopic": "Array",
+      "pattern": "Hash Maps",
+      "notes": "Day 22",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 22,
+        "importance": "VVI",
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    }
+  ]
+}

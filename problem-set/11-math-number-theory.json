@@ -1,0 +1,839 @@
+{
+  "topic": "Math & Number Theory",
+  "totalProblems": 13,
+  "difficultyBreakdown": {
+    "Easy": 3,
+    "Medium": 6,
+    "Hard": 1
+  },
+  "patternBreakdown": {
+    "Bit Manipulation": 13
+  },
+  "problems": [
+    {
+      "id": "leetcode-distribute-candies-to-people",
+      "title": "Distribute Candies to People",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://www.google.com/search?q=Distribute+Candies+to+People+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-find-greatest-common-divisor-of-array",
+      "title": "Find Greatest Common Divisor of Array",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://www.google.com/search?q=Find+Greatest+Common+Divisor+of+Array+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": "Euclidean Algorithm",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-x-of-a-kind-in-a-deck-of-cards",
+      "title": "X of a Kind in a Deck of Cards",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://www.google.com/search?q=X+of+a+Kind+in+a+Deck+of+Cards+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-2-keys-keyboard",
+      "title": "2 Keys Keyboard",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://www.google.com/search?q=2+Keys+Keyboard+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": "Prime factorization",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-bulb-switcher",
+      "title": "Bulb Switcher",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://www.google.com/search?q=Bulb+Switcher+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": "Brain teaser",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-count-primes",
+      "title": "Count Primes",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://www.google.com/search?q=Count+Primes+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": "Sieve of Eratosthenes",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-detect-squares",
+      "title": "Detect Squares",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/detect-squares/",
+      "urlGenerated": false,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-multiply-strings",
+      "title": "Multiply Strings",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/multiply-strings/",
+      "urlGenerated": false,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-reach-a-number",
+      "title": "Reach a Number",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://www.google.com/search?q=Reach+a+Number+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-minimum-number-of-operations-to-make-string-sorted",
+      "title": "Minimum Number of Operations to Make String Sorted",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "url": "https://www.google.com/search?q=Minimum+Number+of+Operations+to+Make+String+Sorted+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-integer-to-english-words",
+      "title": "Integer to English Words",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/integer-to-english-words/",
+      "urlGenerated": false,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": "Day 14",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "day": 14,
+        "importance": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-plus-one",
+      "title": "Plus One",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/plus-one/",
+      "urlGenerated": false,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-reverse-integer",
+      "title": "Reverse Integer",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/reverse-integer/",
+      "urlGenerated": false,
+      "primaryTopic": "Math & Number Theory",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    }
+  ]
+}

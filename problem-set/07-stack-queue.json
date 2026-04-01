@@ -1,0 +1,666 @@
+{
+  "topic": "Stack & Queue",
+  "totalProblems": 10,
+  "difficultyBreakdown": {
+    "Easy": 2,
+    "Medium": 4,
+    "Hard": 1
+  },
+  "patternBreakdown": {
+    "Monotonic Stack/Queue": 9,
+    "Prefix Sum": 1
+  },
+  "problems": [
+    {
+      "id": "leetcode-next-greater-element",
+      "title": "Next Greater Element",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/next-greater-element-ii/description/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": "Day 21",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta",
+          "dsa-patterns-cheat-sheet"
+        ],
+        "day": 21
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-valid-parentheses",
+      "title": "Valid Parentheses",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-parentheses/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": "Use a stack to push open parentheses, if close parentheses is encountered then use a dictionary and check if it's a match, check edge cases, and empty queues, valid input and inputs where closing parentheses\n\npush opening brace on stack, pop if matching close brace, at end if stack empty, return true",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "blind-75",
+          "dsa-patterns-cheat-sheet",
+          "grind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-car-fleet",
+      "title": "Car Fleet",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/car-fleet/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-daily-temperatures",
+      "title": "Daily Temperatures",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/daily-temperatures/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "dsa-patterns-cheat-sheet",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-min-stack",
+      "title": "Min Stack",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/min-stack/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": "Day 17",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "amazon-sde-riddhi-dutta",
+          "neetcode-150"
+        ],
+        "importance": "VVI",
+        "day": 17
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-remove-all-adjacent-duplicates-in-string-ii",
+      "title": "Remove All Adjacent Duplicates in String II",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-shortest-subarray-with-sum-at-least-k",
+      "title": "Shortest Subarray With Sum at Least K",
+      "platform": "LeetCode",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Prefix Sum",
+      "notes": "Problem Challenge",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-largest-rectangle-in-histogram",
+      "title": "Largest Rectangle in Histogram",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": "Day 25",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "sources": [
+          "amazon-sde-riddhi-dutta",
+          "neetcode-150"
+        ],
+        "day": 25
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-remove-adjacent-duplicates",
+      "title": "Remove Adjacent Duplicates",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-simplify-path",
+      "title": "Simplify Path",
+      "platform": "LeetCode",
+      "difficulty": null,
+      "url": "https://leetcode.com/problems/simplify-path/",
+      "urlGenerated": false,
+      "primaryTopic": "Stack & Queue",
+      "pattern": "Monotonic Stack/Queue",
+      "notes": "Problem Challenge",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "dsa-patterns-cheat-sheet"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    }
+  ]
+}

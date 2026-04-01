@@ -1,0 +1,469 @@
+{
+  "topic": "Bit Manipulation",
+  "totalProblems": 7,
+  "difficultyBreakdown": {
+    "Easy": 5,
+    "Medium": 2
+  },
+  "patternBreakdown": {
+    "Bit Manipulation": 7
+  },
+  "problems": [
+    {
+      "id": "leetcode-minimum-bit-flips-to-convert-number",
+      "title": "Minimum Bit Flips to Convert Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://www.google.com/search?q=Minimum+Bit+Flips+to+Convert+Number+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-missing-number",
+      "title": "Missing Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/missing-number/",
+      "urlGenerated": false,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": "compute expected sum - real sum; xor n with each index and value\n\nDay 3",
+      "metadata": {
+        "companies": [
+          "Amazon"
+        ],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "amazon-sde-riddhi-dutta",
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ],
+        "importance": "VVI",
+        "day": 3
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-number-of-1-bits",
+      "title": "Number of 1 Bits",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/number-of-1-bits/",
+      "urlGenerated": false,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": "modulo, and dividing n; mod and div are expensive, to divide use bit shift, instead of mod to get 1's place use bitwise & 1",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-reverse-bits",
+      "title": "Reverse Bits",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/reverse-bits/",
+      "urlGenerated": false,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": "reverse each of 32 bits",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-single-number",
+      "title": "Single Number",
+      "platform": "LeetCode",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/single-number/",
+      "urlGenerated": false,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": null,
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-sum-of-two-integers",
+      "title": "Sum of Two Integers",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/sum-of-two-integers/",
+      "urlGenerated": false,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": "add bit by bit, be mindful of carry, after adding, if carry is still 1, then add it as well",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "blind-75",
+          "grind-75",
+          "neetcode-150"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    },
+    {
+      "id": "leetcode-total-hamming-distance",
+      "title": "Total Hamming Distance",
+      "platform": "LeetCode",
+      "difficulty": "Medium",
+      "url": "https://www.google.com/search?q=Total+Hamming+Distance+LeetCode",
+      "urlGenerated": true,
+      "primaryTopic": "Bit Manipulation",
+      "pattern": "Bit Manipulation",
+      "notes": "Bit Count",
+      "metadata": {
+        "companies": [],
+        "frequency": null,
+        "sources": [
+          "Aryan-dsa-160"
+        ]
+      },
+      "progress": {
+        "completed": false,
+        "attemptedButNotSolved": false,
+        "hasSolution": false,
+        "hasOptimalSolution": false,
+        "understoodCompletely": false,
+        "needsReview": false,
+        "solvedOnce": false,
+        "solvedTwice": false,
+        "solvedThreePlus": false,
+        "bookmarked": false,
+        "isFavorite": false,
+        "watchedVideoSolution": false,
+        "readEditorialSolution": false,
+        "solvedInTime": false,
+        "needsSpeedImprovement": false,
+        "canExplainToOthers": false,
+        "interviewReady": false,
+        "markedForRevision": false,
+        "revisedOnce": false,
+        "revisedMultipleTimes": false,
+        "easierThanRated": false,
+        "harderThanRated": false,
+        "hasNotes": false,
+        "hasCustomTags": false
+      },
+      "timestamps": {
+        "firstAttemptedAt": null,
+        "lastAttemptedAt": null,
+        "completedAt": null,
+        "lastReviewedAt": null,
+        "addedToFavoritesAt": null
+      },
+      "userData": {
+        "notes": "",
+        "customTags": [],
+        "timeTaken": null,
+        "attemptCount": 0,
+        "personalDifficultyRating": null,
+        "confidenceLevel": null,
+        "solutionLinks": [],
+        "resourceLinks": [],
+        "mistakesMade": [],
+        "keyInsights": []
+      }
+    }
+  ]
+}
